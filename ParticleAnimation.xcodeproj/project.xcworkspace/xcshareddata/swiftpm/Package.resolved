@@ -1,0 +1,15 @@
+{
+  "originHash" : "82b23fc3af333f51724e15ee19cf57cb269a1a2c7cc57542cb84672f67958aa1",
+  "pins" : [
+    {
+      "identity" : "subviewhierarchy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/doremin/SubviewHierarchy.git",
+      "state" : {
+        "revision" : "fbe4afc24a380df746ee441653efe5b107665adf",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
